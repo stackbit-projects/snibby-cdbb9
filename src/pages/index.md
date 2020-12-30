@@ -5,7 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: Meet Snibby.
-    content: Does this work or not?
+    content: >-
+      This is a terrible user interface. You can't click on the Bold, Italic, or
+      Heading buttons without closing the window. You can't even click to a
+      section of the text without the window closing. Is this problem exclusive
+      to Chrome?
   - section_id: about
     type: section_content
     title: About

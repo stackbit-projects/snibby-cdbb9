@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: MOAR
+    title: M.O.A.R.
     content: Minimalist Outdoor Adventure Rigs
   - section_id: about
     type: section_content

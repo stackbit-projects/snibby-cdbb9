@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: MOAR
-    content: Massive Outdoor Adventure Rigs
+    content: Minimalist Outdoor Adventure Rigs
   - section_id: about
     type: section_content
     title: About

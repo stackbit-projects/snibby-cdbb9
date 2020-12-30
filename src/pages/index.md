@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Meet Snibby.
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: Does this work or not?
   - section_id: about
     type: section_content
     title: About

@@ -5,11 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: MOAR
-    content: >-
-      This is a broken user experience. You can't click on the Bold, Italic, or
-      Heading buttons without closing the window. You can't even click to a
-      section of the text without the window closing. Is this problem exclusive
-      to Chrome?
+    content: Massive Outdoor Adventure Rigs
   - section_id: about
     type: section_content
     title: About
